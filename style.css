@@ -35,4 +35,9 @@ section {
 
 #sec-1 {
     background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0;
 }
