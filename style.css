@@ -22,3 +22,17 @@ section {
 .half-width img {
     width: 80%;
 }
+
+.hire {
+    text-decoration: none;
+    background-color: red;
+    background-image: linear-gradient(orange, red);
+    padding: 5px 8px;
+    color: white;
+    border-radius: 6px;
+
+}
+
+#sec-1 {
+    background-image: url(images/top-banner.png);
+}
