@@ -49,3 +49,32 @@ body {
     background-position: right;
 
 }
+
+.box-1 {
+    width: 40%;
+    margin: 5%;
+    box-shadow: 10px 10px 30px black;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-left: 7px solid blue;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.box-2 {
+    border-left: 7px solid red
+}
+
+footer p {
+    text-align: center;
+    padding-top: 10px;
+}
+
+footer {
+    background-color: gray;
+    height: 50px;
+}
